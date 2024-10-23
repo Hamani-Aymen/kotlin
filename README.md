@@ -12,10 +12,10 @@ Intent
 Services
 ## Table of Contents
 
-- [Version Control](#Version Control)
-- [app components](#app components)
-- [Interface and Navigation](#Interface and Navigation)
-- [Architecture and Design Patterns](#Architecture and Design Patterns)
+- [Version Control](#VersionControl)
+- [app components](#appcomponents)
+- [Interface and Navigation](#InterfaceandNavigation)
+- [Architecture and Design Patterns](#ArchitectureandDesignPatterns)
 - [Storage](#Storage)
 -  [Network](#Network)
 -  [Asynchronism](#Asynchronism)
@@ -23,3 +23,4 @@ Services
 -  [Testing](#Testing)
 -  [Debugging](#Debugging)
 -  [Distribution](#Distribution)
+## Version Control 
