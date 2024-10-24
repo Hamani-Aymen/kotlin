@@ -30,4 +30,18 @@
 - **Cloud Services**: Exploring cloud integration and backend services.
 
 ### 7. Asynchronism
-- **T
+- **Threads**: Grasping multithreading concepts and their application in Android.
+
+### 8. Linting
+- **Ktlint**: Implementing Ktlint for code formatting and style enforcement.
+- **Detekt**: Using Detekt to identify code smells and improve code quality.
+
+### 9. Testing
+- **Unit Testing**: Writing unit tests to ensure code reliability.
+- **Instrumentation Testing**: Exploring UI testing to validate user interactions.
+
+### 10. Debugging
+- Learning debugging techniques and tools to identify and fix issues in my code.
+
+### 11. Distribution
+- Understanding the steps to package and distribute my app through app stores.
